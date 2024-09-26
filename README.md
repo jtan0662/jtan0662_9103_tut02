@@ -11,7 +11,7 @@ This project allows users to generate dynamic geometric shapes in response to th
 I am inspired by the sound changes aligned with user input in this project. I would like to incorporate a similar imaging technique into my project. While the intial lines and shapes are flowing, users can generate visual changes through clicks or key presses while composing their own unique “music,”. In that case, it would be more playful.
 
 ## Part 2: Coding Technique Exploration
-Using p5.js’s sound library (such as p5.Sound), I can make user inputs (such as key presses or mouse clicks) generate both geometric shapes and corresponding sounds.
+Using p5.js’s sound library (such as p5.Sound), I can make user inputs generate both shapes with corresponding sounds.
 [Sound Example link](https://archive.p5js.org/reference/#/p5.SoundFile)
-I plan to use the keyPressed() and mousePressed() functions to capture user interactions and combine them with sound generation functions, ensuring that each visual change is accompanied by a different sound effect.
-[Initial Flow shpes Example link](https://p5js.org/examples//animation-and-variables-animation-with-events/)
+I plan to use the keyPressed() and mousePressed() functions to capture user interactions to ensure that each visual change is accompanied by a different sound effect.
+[Initial Flow shapes Example link](https://p5js.org/examples//animation-and-variables-animation-with-events/)
